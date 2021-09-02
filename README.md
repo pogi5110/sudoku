@@ -1,1 +1,1 @@
-a simple sudoku made from pure html, css, js
+a simple sudoku puzzle made from pure html, css, js
