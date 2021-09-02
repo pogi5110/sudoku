@@ -1,2 +1,1 @@
-# sudoku
-sudoku made from pure html, css, js
+a simple sudoku made from pure html, css, js
